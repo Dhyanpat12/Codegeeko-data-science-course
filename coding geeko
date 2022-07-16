@@ -1,4 +1,7 @@
-print("Dhyan")
+X = 1000
+B = 2000000
+
+print(X + B)
 
 
 
